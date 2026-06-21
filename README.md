@@ -235,7 +235,3 @@ Tests cover, among others:
 - Prometheus metrics + structured logging.
 
 ---
-
-## License
-
-MIT
